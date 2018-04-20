@@ -3,7 +3,7 @@
 //  iOSAssignment
 //
 //  Created by Pratibha Bhandari on 20/04/18.
-//  Copyright © 2018 Tavant. All rights reserved.
+//  Copyright © 2018 Pratibha Bhandari. All rights reserved.
 //
 
 import UIKit
