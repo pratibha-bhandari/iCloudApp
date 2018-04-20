@@ -182,7 +182,7 @@ class ViewController: UIViewController, UITableViewDataSource {
                 size += 1
                 counts[fileExtention!] = size
             } else {
-                counts[fileExtention!] = 0
+                counts[fileExtention!] = 1
             }
         }
         
